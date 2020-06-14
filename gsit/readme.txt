@@ -1,6 +1,8 @@
 Basic Gauss-Seidel iteration code gsit [sounds: jeezit].
 
-2020-06-14:
+2020-06-14 (B):
+-integration of the source function - down; tested vs IPOL fro R & A
+2020-06-14 (A):
 -integration of the source function - upward; tested vs IPOL fro R & A
 2020-06-12:
 -symmetry of the gauss-scattering matrix is added; code clenned and comemnted a bit better
