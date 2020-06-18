@@ -1,11 +1,11 @@
-! Aerosol total optical depth, spectral dependent (left to right)
-   1.0
-
-! Aerosol single scattering albedo, spectral dependent (left to right)
-   0.999999
-
-! Number of moments and moments of the phase matrix
-   36
+# Header:
+# - phase matrix moments 
+# - format: a1k  a2k  a3k  a4k  b1k  b2k
+# - note: (2k+1) included
+# - average scattering cosine: a1k[k=1]/(2k+1)
+# - reference: ~
+# -
+#
        1.0000000   0.0000000   0.0000000   0.9065620   0.0000000   0.0000000
        2.0849110   0.0000000   0.0000000   2.1517430   0.0000000   0.0000000
        2.4591340   3.8563460   3.6431760   2.4127780   0.0317760   0.0250480
