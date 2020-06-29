@@ -1,4 +1,6 @@
 Basic Gauss-Seidel iteration code gsit [sounds: jeezit].
+2020-06-29:
+-azimuth dependence added and tested vs IPOL for R&A.
 2020-06-18:
 -gsit now computes SS(of azimuth) + MS(azimutally averaged). Tested as usual.
 2020-06-14 (B):
