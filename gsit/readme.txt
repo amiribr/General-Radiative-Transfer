@@ -1,4 +1,6 @@
 Basic Gauss-Seidel iteration code gsit [sounds: jeezit].
+2020-07-02:
+-Lambetian surface (tried numba yesterday, but it did not work well: no accelration, the code must be rebuilt)
 2020-06-29:
 -azimuth dependence added and tested vs IPOL for R&A.
 2020-06-18:
